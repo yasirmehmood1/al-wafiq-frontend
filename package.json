@@ -1,0 +1,30 @@
+{
+  "name": "assignment-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "crypto-js": "^4.2.0",
+    "font-awesome": "^4.7.0",
+    "pinia": "^2.2.6",
+    "vue": "^3.5.12",
+    "vue-google-signin-button": "^1.0.4",
+    "vue-loading-overlay": "^6.0.6",
+    "vue-router": "^4.4.5",
+    "vue-social-auth": "^1.4.9",
+    "vue3-google-login": "^2.0.33",
+    "vue3-loading-overlay": "^0.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10"
+  }
+}
